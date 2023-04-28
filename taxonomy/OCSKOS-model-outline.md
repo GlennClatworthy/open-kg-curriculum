@@ -1,22 +1,26 @@
-# Disciplines and applications
+# open-kgc-curriculum outline
 
-   * ## Business, industry, and organizations
+
+
+## Disciplines and applications
+
+   * ### Business, industry, and organizations
+     
+       * #### Business practices
        
-       * ### Business practices
-       
-         * #### Business architecture
-         * #### Change management
-         * #### Intelligence assessment
-         * #### Regulatory compliance
+         * ##### Business architecture
+         * ##### Change management
+         * ##### Intelligence assessment
+         * ##### Regulatory compliance
        
            * *Has related: “Law”*
-         * #### Outsourcing
-         * #### Sales and marketing
+         * ##### Outsourcing
+         * ##### Sales and marketing
        
-           * ##### Customer relationship management
-           * ##### E-commerce
-           * ##### Marketing
-           * ##### Retail
+           * ###### Customer relationship management
+           * ###### E-commerce
+           * ###### Marketing
+           * ###### Retail
         * #### Operations management
            *  ##### Supply chain management
 ###### Stock management
