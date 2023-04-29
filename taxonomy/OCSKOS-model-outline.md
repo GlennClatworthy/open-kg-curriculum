@@ -15,46 +15,57 @@
        
            * *Has related: “Law”*
          * ##### Outsourcing
-         * ##### Sales and marketing
        
-           * ###### Customer relationship management
-           * ###### E-commerce
-           * ###### Marketing
-           * ###### Retail
-        * #### Operations management
-           *  ##### Supply chain management
-###### Stock management
-       * ### Industry
-        *  #### Energy industry
-           *  ##### Petroleum industry
-        *  #### Information technology industry
-Disambiguate IT and computer science here
-           *  ##### Internet industry
-###### Cloud computing
-###### Web hosting service
-           *  ##### Information technology consulting
-Has broader: “Information technology”
-Has broader: “Consulting”
-           *  ##### Software industry
-Related: “Software development”
-Related: “Application software”
-Related: “Computer science [and IT]” (check
-        *  #### Technology industry
-Also has broader: “Technology”
-        *  #### Professional services industry
-           *  ##### Consulting
-Has related: “Information technology consulting”
-###### Management consulting (consider restoring “industry”)
-           *  ##### Financial services
-Has broader: Banking industry
-Updated from “Bank” in KGC data
-Has broader: “Finance”
-           *  ##### Legal services
-Consider adding “industry”
-Has broader: “Law”
-###### Law firm
-           *  ##### Management consulting industry
-           *  ##### Real estate
+       * #### Sales and marketing
+       
+         * ###### Customer relationship management
+         * ###### E-commerce
+         * ###### Marketing
+         * ###### Retail
+       
+       * #### Operations management
+           * ##### Supply chain management
+       
+             * ###### Stock management
+       
+       * #### Industry
+       
+           *  ##### Energy industry
+                *  ###### Petroleum industry
+       
+                *  ###### Information technology industry (Disambiguate IT and computer science here)
+       
+                    *  Internet industry
+                        *  Cloud computing
+                        *  Web hosting service
+                    *  Information technology consulting
+                        *  Has broader: “Information technology”
+                        *  Has broader: “Consulting"
+                    *  Software industry
+                        *  Related: “Software development”
+                        *  Related: “Application software”
+                        *  Related: “Computer science [and IT]”
+       
+                *  ###### Professional services industry
+       
+                    *  Consulting
+                      *  Has related: “Information technology consulting”
+                      *  Management consulting (consider restoring “industry”)
+                    *   Financial services
+                      *  Has broader: Banking industry
+                        *  Updated from “Bank” in KGC data
+                      *  Has broader: “Finance”
+                    *  Legal services
+                      *  Consider adding “industry”
+                      *  Has broader: “Law”
+                      *  Law firm
+                    *  Management consulting industry
+                    *  Real estate
+       
+                *  ###### Technology industry
+       
+                     *  Has broader: “Technology”
+
    * ## Crime prevention
        * ### Anti-money laundering
        Related: “Finance” (or Banking industry?)
