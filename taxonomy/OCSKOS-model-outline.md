@@ -18,10 +18,10 @@
        
        * #### Sales and marketing
        
-         * ###### Customer relationship management
-         * ###### E-commerce
-         * ###### Marketing
-         * ###### Retail
+         * ##### Customer relationship management
+         * ##### E-commerce
+         * ##### Marketing
+         * ##### Retail
        
        * #### Operations management
            * ##### Supply chain management
@@ -62,7 +62,7 @@
        
                 *  Has broader: Banking industry
                   *  Updated from “Bank” in KGC data
-                *  Has broader: “Finance”
+                *  Has broader or related: “Finance”
        
               *  ###### Legal services
        
@@ -339,8 +339,6 @@ Ah, but is this a standard?
 Skos:related: “Applied semantics//Employment”
 Skos:related: “Applied semantics/Economy/Health”
 # Twilight Zone
-   * ## VIP
-Indicates that the conference speaker is a very important person
    * ## Ontology engineering
 Temporary location until I decide where to put it
 
