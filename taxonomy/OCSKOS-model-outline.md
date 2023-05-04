@@ -16,68 +16,70 @@
            * *Has related: “Law”*
          * ##### Outsourcing
        
+       * #### Industry
+       
+           * ##### Energy industry
+       
+             * ###### Petroleum industry
+       
+           * ##### Information technology industry (Disambiguate IT and computer science here)
+       
+             * ###### Internet industry
+       
+               *  Cloud computing
+               *  Web hosting service
+       
+             * ###### Information technology consulting
+       
+               *  Has broader: “Information technology”
+               *  Has broader: “Consulting"
+       
+             * ###### Software industry
+       
+               *  Related: “Software development”
+               *  Related: “Application software”
+               *  Related: “Computer science [and IT]”
+       
+           * ##### Professional services industry
+       
+             * ###### Consulting
+       
+               *  Has related: “Information technology consulting”
+               *  Management consulting (consider restoring “industry”)
+       
+             * ######  Financial services
+       
+               *  Has broader: Banking industry
+                  *  Updated from “Bank” in KGC data
+               *  Has broader or related: “Finance”
+       
+             * ###### Legal services
+       
+               *  Consider adding “industry”
+               *  Has broader: “Law”
+               *  Law firm
+       
+             * ###### Management consulting industry
+       
+             * ###### Real estate
+       
+           * ##### Technology industry
+       
+             *  Has broader: “Technology”
+       
+       * #### Operations management
+       
+         * ##### Supply chain management
+       
+           * ###### Stock management
+       
        * #### Sales and marketing
        
          * ##### Customer relationship management
          * ##### E-commerce
-         * ##### Marketing
-         * ##### Retail
-       
-       * #### Operations management
-           * ##### Supply chain management
-       
-             * ###### Stock management
-       
-       * #### Industry
-       
-           *  ##### Energy industry
-                *  ###### Petroleum industry
-       
-           *  ##### Information technology industry (Disambiguate IT and computer science here)
-       
-               *  ###### Internet industry
-       
-                   *  Cloud computing
-                   *  Web hosting service
-       
-               *  ###### Information technology consulting
-       
-                   *  Has broader: “Information technology”
-                   *  Has broader: “Consulting"
-       
-               *  ###### Software industry
-       
-                   *  Related: “Software development”
-                   *  Related: “Application software”
-                   *  Related: “Computer science [and IT]”
-       
-           *  ##### Professional services industry
-       
-              *  ###### Consulting
-       
-                *  Has related: “Information technology consulting”
-                *  Management consulting (consider restoring “industry”)
-       
-              *  ######  Financial services
-       
-                *  Has broader: Banking industry
-                  *  Updated from “Bank” in KGC data
-                *  Has broader or related: “Finance”
-       
-              *  ###### Legal services
-       
-                *  Consider adding “industry”
-                *  Has broader: “Law”
-                *  Law firm
-       
-              *  ###### Management consulting industry
-       
-              *  ###### Real estate
-       
-           *  ##### Technology industry
-       
-                *  Has broader: “Technology”
-
+       * ##### Marketing
+       * ##### Retail
+     
    * ## Crime prevention
        * ### Anti-money laundering
        Related: “Finance” (or Banking industry?)
@@ -85,13 +87,16 @@
        * ### Fraud prevention
        Related: “Finance” (or Banking industry?”)
        * ### Missing person
+       
    * ## Economics and finance
        * ### Finance
        Has related: “Economics”
        Has related: “Financial Services”
         *  #### Derivative
         *  #### Security
+       
    * ## Engineering
+
    * ## Education
        * ### Altmetrics 
        Note: About alternative scholarly impact metrics. 
@@ -99,6 +104,7 @@
        Renamed from “Academic”
        * ### Scholarly communication
        Tentative; doesn’t feel like a close fit
+       
    * ## Government
        * ### Federal government of the United States
        * ### California Consumer Privacy Act
@@ -109,6 +115,7 @@
        Alternate term: GDPR
        Related: Personal data
        Related: Privacy
+       
    * ## Law
      See also: topics under “Government”
      Has related: “Regulatory compliance”
@@ -117,6 +124,7 @@
            *  ##### Information privacy
            Related: Personal data
        * ### Human rights
+     
    * ## Library science
        * ### Library of Congress
        Has broader: “Library”
@@ -199,28 +207,46 @@ Scope: Describing how knowledge graphs integrate within the IT environment to me
        * ### Predictive analytics
 # Principles or Topics
    * ## Data 
+
    * ## Database
        * ### Graph database
        * ### MongoDB
+       
    * ## Internet
        * ### Internet decentralization
-       Changed from “Decentralization on the internet”
+         Changed from “Decentralization on the internet”
+       
        * ### World Wide Web
-        *  #### HTTP
+       
+        * #### HTTP
+       
         *  #### Identifier
            *  ##### Deep linking
+           
            *  ##### URI
-###### Hash URI
-###### Slash URI
+           
+              * ###### Hash URI
+           
+              * ###### Slash URI
+           
            *  ##### URL
-        *  #### Namespace
-        *  #### Semantic web
-           *  ##### Linked data
-Related: “Linked data fragments”
-        *  #### Web query 
-           *  ##### Elasticsearch
-           *  ##### Linked data fragments
-        *  #### Web service
+       
+       *  #### Namespace
+       
+       *  #### Semantic web
+       
+            *  ##### Linked data
+       
+               * ###### Related: “Linked data fragments
+       
+            *  ##### Web query
+       
+               *  ###### Elasticsearch
+       
+               *  ###### Linked data fragments
+       
+            *  ##### Web service
+
    * ## Logic 
        * ### Equivalence
         *  #### Equivalent class
