@@ -168,7 +168,7 @@ Has related: “Semantic web”
    * ## Social science
    * ## Technology
    * ## Web science
-# Computer science, information technology, and knowledge graphs
+# Computer science and information technology
 Scope: Describing how knowledge graphs integrate within the IT environment to meet business needs
    * ## Artificial intelligence
        * ### Knowledge representation and reasoning

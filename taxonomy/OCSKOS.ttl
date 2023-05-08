@@ -163,7 +163,7 @@
   skos:definition "From Coursera:  Generally, computer science refers to designing and building computers and computer programs. Information technology, on the other hand, refers to maintaining and troubleshooting those computers and their networks, systems, and databases to ensure they run smoothly." ;
   skos:narrower :ComputerScience ;
   skos:narrower :InformationTechnology ;
-  skos:prefLabel "Computer science and IT" ;
+  skos:prefLabel "Computer science and information technology" ;
   skos:topConceptOf :OCSKOS ;
 .
 :Consulting
@@ -580,7 +580,7 @@ data goverment""" ;
 :InformationTechnology
   rdf:type skos:Concept ;
   dcterms:isReferencedBy "<https://en.wikipedia.org/wiki/Information_technology>" ;
-  skos:broader :AppliedSemantics ;
+  skos:broader :Disciplines ;
   skos:definition "From Wikipedia: Information technology (IT) is the use of computers to create, process, store, retrieve and exchange all kinds of data[1] and information." ;
   skos:exactMatch <http://www.knowledgegraph.tech/iri/00279> ;
   skos:exactMatch <https://www.wikidata.org/wiki/Q11661> ;
@@ -1170,8 +1170,9 @@ A Linked Data Fragment (LDF) is characterized by a specific selector (subject UR
 .
 :Reification
   rdf:type skos:Concept ;
-  dcterms:references "<https://en.wikipedia.org/wiki/Reification_(knowledge_representation)>" ;
   dcterms:isReferencedBy <https://en.wikipedia.org/wiki/Reification_(knowledge_representation)> ;
+  dcterms:references "<https://en.wikipedia.org/wiki/Reification_(knowledge_representation)>" ;
+  skos:broader :KnowledgeRepresentationReasoning ;
   skos:definition "From Wikipedia: Reification in knowledge representation is the process of turning a predicate or statement into an addressable object. Reification allows the representation of assertions so that they can be referred to or qualified by other assertions, i.e., meta-knowledge." ;
   skos:editorialNote "No KGC event references; requires URI" ;
   skos:exactMatch <https://www.wikidata.org/wiki/Q7310068> ;
