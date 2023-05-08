@@ -1170,8 +1170,11 @@ A Linked Data Fragment (LDF) is characterized by a specific selector (subject UR
 .
 :Reification
   rdf:type skos:Concept ;
+<<<<<<< HEAD
   dcterms:references "<https://en.wikipedia.org/wiki/Reification_(knowledge_representation)>" ;
+=======
   dcterms:isReferencedBy <https://en.wikipedia.org/wiki/Reification_(knowledge_representation)> ;
+>>>>>>> 1e3be63e62a012e50a7578d719c9f8239696c143
   skos:definition "From Wikipedia: Reification in knowledge representation is the process of turning a predicate or statement into an addressable object. Reification allows the representation of assertions so that they can be referred to or qualified by other assertions, i.e., meta-knowledge." ;
   skos:editorialNote "No KGC event references; requires URI" ;
   skos:exactMatch <https://www.wikidata.org/wiki/Q7310068> ;
